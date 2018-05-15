@@ -4,3 +4,4 @@ trying another one
 uncomit
 test push
 test pull/fetch
+test pull
